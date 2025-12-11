@@ -21,6 +21,7 @@ The **Health Analytics Dashboard** is a comprehensive Power BI solution develope
 This project demonstrates advanced capabilities in **data modeling**, **Power Query ETL**, **DAX**, and **executive dashboard development**, aligned with the best practices expected of senior analytics roles.
 
 The dashboard is built for performance, analytical accuracy, and ease of use for decision-makers.
+---
 <img width="841" height="441" alt="health done" src="https://github.com/user-attachments/assets/6d5e574d-e50d-4397-8c8e-4e50f01be444" />
 
 ---
