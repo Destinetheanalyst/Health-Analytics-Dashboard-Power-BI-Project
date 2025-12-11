@@ -197,7 +197,8 @@ The analysis identifies a systemic pattern of operational friction, fragmented c
   
  ---
 <img width="844" height="445" alt="health done 1" src="https://github.com/user-attachments/assets/524d8535-9a40-481a-831a-fdf3e9c51081" />
----
+
+
 ## **8. Recommendations**
 
 ### **1. Strengthen Capacity & Scheduling Optimization**  
@@ -260,7 +261,7 @@ This investment produces **rapid, measurable ROI**, directly addressing the orga
   Implemented a robust star-schema model to separate facts from dimensions, enabling efficient aggregation, slicing, and filtering across multiple performance metrics.
 
 - **Performance Optimization**  
-  Applied best practices including column reduction, measure optimization, and relationship tuning to enhance dashboard responsiveness and minimize resource consumption.
+  Applied best practices, including column reduction, measure optimization, and relationship tuning to enhance dashboard responsiveness and minimize resource consumption.
 
 - **Data Analysis, Healthcare KPIs, and Reporting**  
   Translated raw health service data into interpretable metrics such as ALOS, GMLOS, waitlist trends, specialty-level KPIs, age-band insights, and multi-year backlog patterns.
