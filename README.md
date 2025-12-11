@@ -18,9 +18,10 @@
 ## **1. Project Overview**
 The **Health Analytics Dashboard** is a comprehensive Power BI solution developed to provide hospital administrators and healthcare stakeholders with real-time visibility into clinical performance, patient demographics, hospital operations, and financial indicators.
 
-This project reflects advanced capabilities in **data modeling**, **Power Query ETL**, **DAX**, and **executive dashboard development**, aligned with best practices expected from senior analytics roles.
+This project demonstrates advanced capabilities in **data modeling**, **Power Query ETL**, **DAX**, and **executive dashboard development**, aligned with the best practices expected of senior analytics roles.
 
 The dashboard is built for performance, analytical accuracy, and ease of use for decision-makers.
+<img width="841" height="441" alt="health done" src="https://github.com/user-attachments/assets/6d5e574d-e50d-4397-8c8e-4e50f01be444" />
 
 ---
 
@@ -193,5 +194,89 @@ The analysis identifies a systemic pattern of operational friction, fragmented c
     - Missing or incorrect prior authorizations  
 - These denials represent **immediate revenue loss**.  
 - Manual review processes cannot keep pace with the volume or complexity of claims, resulting in recurring leakage rather than systemic correction.
+  
+ ---
+<img width="844" height="445" alt="health done 1" src="https://github.com/user-attachments/assets/524d8535-9a40-481a-831a-fdf3e9c51081" />
+---
+## **8. Recommendations**
 
+### **1. Strengthen Capacity & Scheduling Optimization**  
+- Prioritize paediatric services and A&E, where wait times exceed safe thresholds.  
+- Implement dynamic scheduling and automated load balancing.
 
+### **2. Increase Outpatient Throughput**  
+- Expand clinician sessions, extend clinic hours, or adopt hybrid consultation models.  
+- Improving outpatient flow prevents future inpatient surges.
+
+### **3. Improve Inpatient Bed Management**  
+- Deploy real-time bed tracking and discharge planning tools.  
+- Reduce avoidable delays to improve inpatient turnaround.
+
+### **4. Target Long-Wait Outliers**  
+- Establish a structured backlog-clearing program.  
+- Use predictive analytics to identify at-risk patient groups and minimize delays.
+  
+### **5. Mandate SDOH-Adjusted Care Coordination**  
+To reduce readmissions and optimize patient flow:
+
+- Implement a **predictive risk scoring model** that integrates:  
+  - Clinical history  
+  - Comorbidity severity  
+  - Utilization patterns  
+  - **External SDOH datasets** (income, housing stability, transportation access, neighborhood risk indicators)  
+- Use these enhanced risk scores to identify high-risk patients **at the point of admission**, not after discharge.  
+- Deploy dedicated **Multidisciplinary Discharge Planning Teams** to these high-risk cases.  
+- Standardize an optimized discharge workflow targeting alignment of ALOS with GMLOS benchmarks.  
+- Establish a structured **4-to-10-day post-discharge follow-up program**, tailored to the risk factors flagged by the predictive model.
+
+This approach transitions the organization from reactive to **anticipatory care management**, minimizing complications and improving patient outcomes.
+
+### **6. Invest in AI-Driven Revenue Cycle Automation**  
+
+To reclaim lost revenue and stabilize cash flow:
+
+- Implement AI solutions for:  
+  - Real-time claims scrubbing  
+  - Automated eligibility and authorization checks  
+  - Intelligent routing of exception cases  
+- Automate the majority of **front-end validation**, which currently drives most denial root causes.  
+- Improve first-pass clean claim rates, accelerating **Days in A/R reduction** and strengthening financial predictability.  
+- Enable staff to shift from repetitive manual tasks toward **exception management and strategic financial oversight**.
+
+This investment produces **rapid, measurable ROI**, directly addressing the organization’s largest source of preventable financial leakage.
+
+## 9. Skills Demonstrated
+
+- **Advanced Power BI Dashboard Development**  
+  Designed an interactive, multi-page analytical dashboard with dynamic slicers, KPI cards, and drill-through insights tailored for healthcare operations.
+
+- **DAX and Data Modeling Expertise**  
+  Developed complex DAX measures, calculated tables, and custom time-intelligence logic to support accurate patient waitlist analytics and historical comparisons.
+
+- **Power Query Transformation Workflows**  
+  Cleaned, reshaped, merged, and standardized diverse datasets using Power Query M-language to ensure data integrity and optimal refresh performance.
+
+- **Fact/Dimension Schema Design**  
+  Implemented a robust star-schema model to separate facts from dimensions, enabling efficient aggregation, slicing, and filtering across multiple performance metrics.
+
+- **Performance Optimization**  
+  Applied best practices including column reduction, measure optimization, and relationship tuning to enhance dashboard responsiveness and minimize resource consumption.
+
+- **Data Analysis, Healthcare KPIs, and Reporting**  
+  Translated raw health service data into interpretable metrics such as ALOS, GMLOS, waitlist trends, specialty-level KPIs, age-band insights, and multi-year backlog patterns.
+
+- **Storytelling for Executive Decision-Making**  
+  Synthesized complex operational data into clear, actionable insights for senior leaders, ensuring the dashboard supports strategic planning, capacity management, and policy decisions.
+
+---
+
+## 10. Contact
+
+**Name:** Dike Nnaemeka Destine  
+**Role:** Data Analyst | BI Developer | Instructor  
+
+**GitHub:**  
+[https://github.com/Destinetheanalyst](https://github.com/Destinetheanalyst)
+
+**LinkedIn:**  
+[https://www.linkedin.com/in/nnaemeka-destine-dike-9a27b531a](https://www.linkedin.com/in/nnaemeka-destine-dike-9a27b531a)
